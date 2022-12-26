@@ -13,4 +13,4 @@ cmake --build build --config Release
 
 cmake --build build --config Debug
 
-Clock to assign as a startup project
+SFML_Sample to assign as a startup project
